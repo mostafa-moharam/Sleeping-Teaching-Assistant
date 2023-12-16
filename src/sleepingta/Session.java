@@ -84,9 +84,7 @@ public class Session extends javax.swing.JFrame {
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         setForeground(new java.awt.Color(102, 0, 204));
         setIconImages(null);
-        setMaximumSize(new java.awt.Dimension(1013, 570));
         setMinimumSize(new java.awt.Dimension(50, 50));
-        setPreferredSize(new java.awt.Dimension(1013, 570));
         setResizable(false);
         setSize(new java.awt.Dimension(1013, 570));
         getContentPane().setLayout(null);
