@@ -7,7 +7,7 @@ package sleepingta;
 
 /**
  *
- * @author mahmo
+ * @author mostafa
  */
 public class TeacherAssistant implements Runnable{
     

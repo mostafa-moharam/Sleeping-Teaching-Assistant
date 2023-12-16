@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author mahmo
+ * @author mostafa
  */
 public class Student implements Runnable{
     
